@@ -1,0 +1,1 @@
+This example will explain  integration of database in react-native
